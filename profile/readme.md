@@ -1,4 +1,4 @@
-<img src = "https://github.com/fiizzy/calentre/blob/main/doc/images/logo.png?raw=true"  > 
+<img src = "https://github.com/fiizzy/calentre/blob/main/doc/images/logo_2.png?raw=true"  > 
 
 # Calentre 📅💰
 
