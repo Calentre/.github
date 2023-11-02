@@ -1,4 +1,4 @@
-<img src = "https://github.com/calentre/calentre/blob/main/doc/images/logo_2.png?raw=true"  > 
+<img src = "https://github.com/calentre/calentre/blob/main/doc/images/logo.png?raw=true"  > 
 
 # Calentre 📆
 
@@ -7,12 +7,12 @@ Calentre is an open-source project that combines the features of Calendly and Go
 ## Calentre-Admin (💙 Flutter) 🌐
 The Calentre-Admin repository is dedicated to the administrative side of Calentre. It offers an intuitive scheduler where you can manage your availability and appointments. Additionally, it includes an option for payment processing 💳, making it a powerful tool for businesses and professionals to streamline their scheduling and payment workflows.
 
-[Contribute to Calentre-Admin](https://github.com/calentre/calentre)
+[Contribute to Calentre-Admin](https://github.com/Calentre/calentre)
 
 ## Calentre-Client (💚 React) 💻
 The Calentre-Client repository focuses on the client-facing side of Calentre. This user-friendly scheduler empowers invitees to book appointments and meetings seamlessly. It also supports payment processing, enhancing the overall experience for both users and clients. 💻💰
 
-[Contribute to Calentre-Client](https://github.com/calentre/calentre-client)
+[Contribute to Calentre-Client](https://github.com/Calentre/calentre-client)
 
 Your support is greatly appreciated! Please consider starring ⭐ this project to show your support and keep it thriving. 🙌
 
